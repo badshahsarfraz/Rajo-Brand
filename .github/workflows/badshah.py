@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - NAZEER -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------NAZEER-TRICKER--------•◈•
+|__(~)    •||•THE - Sarfraz -OFFICAL------•◈•
+|__\~~) •||•Badshah - Mehar---------------•◈•
+|__(-----\  •◈•------Fb Tips & Tricks--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; james.kasey.37
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mSarfraz Badshah
+\033[1;96mInstagram \033[1;93m: \033[1;sarfraz__badshah
+\033[1;96mFacebook  \033[1;93m: \033[1; fbtips.tricks9
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/badshahsarfraz/fast-fbtipstricks
 \033[1;91m======================================="""
 
 def tik():
@@ -87,8 +87,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Nazeer"
-CorrectPassword = "Nazeer"
+CorrectUsername = "badshah"
+CorrectPassword = "badshah"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +100,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.youtube.com/channel/UC0hAMP0ye2H5Ygs1e2oP0EA')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.youtube.com/channel/UC0hAMP0ye2H5Ygs1e2oP0EA')
 
 def login():
 	os.system('clear')
