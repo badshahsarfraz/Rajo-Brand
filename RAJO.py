@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - Sarfraz -OFFICAL------•◈•
-|__\~~) •||•Mehar - Badshah---------------•◈•
-|__(-----\  •◈•------Fb Tips & Tricks--------•◈•
+|__(~)    •||•THE - RAJO -OFFICAL------•◈•
+|__\~~) •||•Ali - Rajo ---------------•◈•
+|__(-----\  •◈•------03420406439--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mSarfraz Ahmad
-\033[1;96mInstagram \033[1;93m: \033[1;sarfraz__badshah
-\033[1;96mFacebook  \033[1;93m: \033[1; fbtips.tricks9
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/badshahsarfraz/fast-fbtipstricks
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRAJO
+\033[1;96mWhatsApp \033[1;93m: \033[1;92m 03420406439
+
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/badshahsarfraz/RAJO-BRAND
 \033[1;91m======================================="""
 
 def tik():
@@ -79,16 +79,15 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mSarfraz Ahmed
-\033[1;96mInstagram \033[1;93m: \033[1;92msarfraz__badshah
-\033[1;96mFacebook  \033[1;93m: \033[1;92m fbtips.tricks9
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/sarfrazbadshah/fast-fbtipstricks
+print  """\033[1;91mNote!! Don't be use illigal I am not responsible for any illigal activity=
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRajo
+\033[1;96mInstagram \033[1;93m: \033[1;92m03420406439
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/sarfrazbadshah/RAJO-BRAND
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "badshah"
-CorrectPassword = "badshah"
+CorrectUsername = "Ali"
+CorrectPassword = "Rajo"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +99,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UC0hAMP0ye2H5Ygs1e2oP0EA')
+            os.system('xdg-open https://youtu.be/UjtLYItCGyg')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UC0hAMP0ye2H5Ygs1e2oP0EA')
+        os.system('xdg-open https://youtu.be/UjtLYItCGyg')
 
 def login():
 	os.system('clear')
